@@ -1,8 +1,8 @@
-# MOB PROGRAMMING: THE ROLE PLAYING GAME 
-## by Willem Larsen CC-BY-SA-NC 2016 
-## Powered by the Apocalypse - thanks to BigBadCon 2016 for inspiration
+# MOBBUTVECKLING - ROLLSPELET 
+## av Willem Larsen CC-BY-SA-NC 2016
+## översatt till svenska av Anders Ryman CC-BY-SA-NC 2019
 
-# To the Game Master
+# För spelledaren
 
 First of all, thanks for helping playtest this game! 
 
